@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import { useState } from "react";
+import { CompanyInfo } from "../lib/types";
 
 const DEFAULT_WHATSAPP = "6285285033374";
 const DEFAULT_WHATSAPP_MESSAGE = "Halo tim SystemaIndonesia, saya ingin konsultasi terkait kebutuhan sistem digital untuk bisnis saya. Mohon bantuannya ya.";
