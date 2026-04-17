@@ -41,7 +41,7 @@ export default function Footer() {
           <h4 className="font-semibold text-gray-900 dark:text-gray-100">Kontak</h4>
           <ul className="mt-4 space-y-3 text-gray-600 dark:text-gray-400">
             <li>Email: support@systemaindonesia.com</li>
-            <li>WhatsApp: +62 812-3456-7890</li>
+            <li>WhatsApp: +62 85285033374</li>
             <li>Alamat: Jakarta, Indonesia</li>
           </ul>
         </div>
